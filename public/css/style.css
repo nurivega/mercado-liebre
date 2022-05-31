@@ -105,6 +105,12 @@ article img{
     
 }
 
+.barra-de-busqueda form{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
 .barra-de-busqueda input{
     width: 95%;
     height:5vh;
